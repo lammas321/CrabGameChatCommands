@@ -12,7 +12,7 @@ For a more technical behind the scenes answer:
 There are also plans for command suggestions/autocomplete in the future, you can some of the code for it in the repository, however it is buggy in its current state and not a priority of mine currently, thus it is disabled for now.
 
 ## Where's all the commands?
-This mod by itself only has a help command, you'll need to get other mods, such as [GameMaster](https://github.com/lammas321/CrabGameGameMaster), RightToBearArms, or Overseer to get more fun/useful commands.
+This mod by itself only has a help command, you'll need to get other mods, such as [GameMaster](https://github.com/lammas321/CrabGameGameMaster), [RightToBearArms](https://github.com/lammas321/CrabGameRightToBearArms), or Overseer to get more fun/useful commands.
 
 ## Why can only the host use commands?
 If you'd like to give other players permission to use commands, you'll need to use the [PermissionGroups](https://github.com/lammas321/CrabGamePermissionGroups) mod.
