@@ -13,3 +13,6 @@ There are also plans for command suggestions/autocomplete in the future, you can
 
 ## Where's all the commands?
 This mod by itself only has a help command, you'll need to get other mods, such as GameMaster, RightToBearArms, or Overseer to get more fun/useful commands.
+
+## Why can only the host use commands?
+If you'd like to give other players permission to use commands, you'll need to use the [PermissionGroups](https://github.com/lammas321/CrabGamePermissionGroups) mod.
