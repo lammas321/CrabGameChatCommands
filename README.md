@@ -16,3 +16,6 @@ This mod by itself only has a help command, you'll need to get other mods, such 
 
 ## Why can only the host use commands?
 If you'd like to give other players permission to use commands, you'll need to use the [PermissionGroups](https://github.com/lammas321/CrabGamePermissionGroups) mod.
+
+## I don't like using an exclamation mark as a command prefix
+That can be configured to anything you want in the "BepInEx/config/lammas123.ChatCommands.cfg" config file, however the command prefix is determined by the lobby owner, so you won't be able to use your custom prefix if you're not the host.
